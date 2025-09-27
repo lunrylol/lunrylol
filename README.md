@@ -20,10 +20,6 @@
 
 - You can contact me on Discord! - [@sacurie on Discord](https://discord.com/users/341160761470615563)
 
-## ◆ 🎵 - Currently listening to
-
-[![Spotify currently Listening to](https://spotify-github-profile.vercel.app/api/view?uid=ag2f23vdt91zvbw4magzc84my&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ag2f23vdt91zvbw4magzc84my&redirect=true)
-
 ## ◆ 🏆 - Trophys & Medals
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sacurie&row=10&column=3)](https://github.com/ryo-ma/github-profile-trophy)
