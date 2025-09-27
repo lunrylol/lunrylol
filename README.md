@@ -1,11 +1,11 @@
 <a href="https://discord.com/users/341160761470615563" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/341160761470615563?bg=1f1f1f&borderRadius=5px">
 </a>
-<a href="https://wakatime.com/@shini" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=shini&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
+<a href="https://wakatime.com/@sacurie" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=sacurie&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
 </a>
 <a href="https://github.com/veltarie" target="_blank">
-	<img width="50%" align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=veltarie&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false">
+	<img width="50%" align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sacurie&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false">
 </a>
 
 ## ◆ 🪐 - Welcome! › ![](https://komarev.com/ghpvc/?username=shinidotjs&style=flat-square&label=VIEWS)
@@ -18,7 +18,7 @@
 	<img src="https://cdn.discordapp.com/emojis/1131312467830648842.gif?size=80&quality=lossless" width="17" height="17" align="center">
 </a> https://discord.gg/novaempire
 
-- You can contact me on Discord! - [@veltarie on Discord](https://discord.com/users/341160761470615563)
+- You can contact me on Discord! - [@sacurie on Discord](https://discord.com/users/341160761470615563)
 
 ## ◆ 🎵 - Currently listening to
 
@@ -26,5 +26,5 @@
 
 ## ◆ 🏆 - Trophys & Medals
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=veltarie&row=10&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sacurie&row=10&column=3)](https://github.com/ryo-ma/github-profile-trophy)
  
